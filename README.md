@@ -12,9 +12,9 @@
 - git version 2.43.0
 
 3. So sánh
-Tính năng	                         npm	                          nvm
-Chức năng chính	         Quản lý package JavaScript	  Quản lý phiên bản Node.js
-Cài đặt cùng Node.js	              Có	                         Không
-Quản lý gói	                        Có	                         Không
-Quản lý Node.js	                   Không	                        Có
+- Tính năng	                         npm	                          nvm
+- Chức năng chính	         Quản lý package JavaScript	  Quản lý phiên bản Node.js
+- Cài đặt cùng Node.js	              Có	                         Không
+- Quản lý gói	                        Có	                         Không
+- Quản lý Node.js	                   Không	                        Có
 
