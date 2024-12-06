@@ -10,6 +10,7 @@
 - npm 9.2.0
 - nvm chưa có
 - git version 2.43.0
+- cài đặt yarn để quản lí gói phụ thuộc thay npm vì được khuyến nghị 0.32+git
 
 3. So sánh
 - Tính năng	                         npm	                          nvm
