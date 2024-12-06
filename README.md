@@ -19,3 +19,4 @@
 - Quản lý gói	                        Có	                         Không
 - Quản lý Node.js	                   Không	                        Có
 
+=> Sau khi test tôi thấy nó quá khổng lồ :) 
